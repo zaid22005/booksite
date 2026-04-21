@@ -1,0 +1,31 @@
+subject,level,topic,content
+python,1,Introduction,What is Python and why it is used
+python,1,Syntax,Basic syntax rules in Python
+python,1,Keywords,Reserved keywords in Python
+python,1,Tokens,Smallest elements in Python
+python,2,Variables,Storing data in variables
+python,2,Data Types,Types like int float string
+python,2,If Else,Decision making using if else
+python,2,Loops,For loop and while loop
+python,2,Functions,Creating and using functions
+python,3,OOP,Classes and objects
+python,3,Modules,Importing and using modules
+python,3,File Handling,Reading and writing files
+
+ai,1,Introduction,What is Artificial Intelligence
+ai,1,History,History and evolution of AI
+ai,1,Applications,Real world uses of AI
+ai,2,Machine Learning,Basics of machine learning
+ai,2,Supervised Learning,Learning with labeled data
+ai,2,Unsupervised Learning,Learning without labels
+ai,3,Deep Learning,Neural networks basics
+ai,3,NLP,Processing human language
+
+web,1,HTML,Basic structure of web pages
+web,1,Tags,Common HTML tags
+web,1,Forms,Creating forms in HTML
+web,2,CSS,Styling web pages
+web,2,Flexbox,Layout using flexbox
+web,2,JavaScript,Adding interactivity
+web,3,DOM,Manipulating web page elements
+web,3,Backend,Server side development
